@@ -1,12 +1,6 @@
-# SARA Test Project
+# test10
 
-A minimal Java project used for SARA assessment testing.
+Test repository for PR decoration.
 
-## Setup
-```
-mvn install
-mvn test
-```
+Trigger: dev18 decoration check.
 
-## Architecture
-Simple Maven project with a single utility class.
